@@ -13,7 +13,7 @@ Create a static file server with basic APIs for logging user visits.
 
 
 
-# E-Commerce Product Catalog API
+## Project 2:  E-Commerce Product Catalog API
 
 ## Objective
 Build an API for managing an e-commerce product catalog.
