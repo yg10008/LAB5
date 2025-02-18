@@ -13,13 +13,14 @@ Create a static file server with basic APIs for logging user visits.
 
 
 
-## Project 2: E-Commerce Product Catalog API
+# E-Commerce Product Catalog API
 
-### Objective
-Create a static file server with basic APIs for logging user visits.
+## Objective
+Build an API for managing an e-commerce product catalog.
 
-### Features
--**GET /products**: Return all products.
--**GET /products/:id**: Fetch a specific product by ID.
--**GET /products?category=electronics**: Filter products by category (e.g., "electronics").
+## Features
+
+- **GET /products**: Return a list of all products.
+- **GET /products/:id**: Fetch a specific product by ID.
+- **GET /products?category=electronics**: Filter products by category (e.g., "electronics").
 
