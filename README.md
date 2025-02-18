@@ -10,7 +10,16 @@ Create a static file server with basic APIs for logging user visits.
 - **Log User Visits**: Log every user visit (IP, timestamp) to a `visits.log` file using middleware.
 - **API Endpoint**: Provides a `/logs` API to retrieve the log data in JSON format.
 
-### How to Run
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/simple-content-delivery-server.git
+
+
+
+## Project 1:E-Commerce Product Catalog API
+
+### Objective
+Create a static file server with basic APIs for logging user visits.
+
+### Features
+-GET /products: Return all products.
+-GET /products/:id: Fetch a specific product by ID.
+-GET /products?category=electronics: Filter products by category (e.g., "electronics").
+
