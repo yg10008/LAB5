@@ -19,7 +19,7 @@ Create a static file server with basic APIs for logging user visits.
 Create a static file server with basic APIs for logging user visits.
 
 ### Features
--GET /products: Return all products.
--GET /products/:id: Fetch a specific product by ID.
--GET /products?category=electronics: Filter products by category (e.g., "electronics").
+-**GET /products**: Return all products.
+-**GET /products/:id**: Fetch a specific product by ID.
+-**GET /products?category=electronics**: Filter products by category (e.g., "electronics").
 
